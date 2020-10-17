@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LatihanConstrainLayout</string>
+    <string name="kursuspemrograman_com">KursusPemrograman.com</string>
+    <string name="email_khusnianur_07_gmail_com">email : khusnianur.07@gmail.com</string>
+    <string name="password">password : *****</string>
+    <string name="login">Login</string>
+    <string name="lupa_kata_sandi">Lupa kata sandi ?</string>
+    <string name="buat_akun_baru">Buat Akun Baru</string>
+    <string name="copyright_2020">Copyright. 2020</string>
+</resources>
